@@ -13,7 +13,7 @@ class InfoViewController: UIViewController {
         super.viewDidLoad()
         title = "About this App"
         view.backgroundColor = .systemBackground
-        
+        print("about this app")
     }
   
 }
