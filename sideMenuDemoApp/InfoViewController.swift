@@ -6,6 +6,7 @@
 //
 
 import UIKit
+import SwiftUI
 
 class InfoViewController: UIViewController {
 
@@ -17,3 +18,4 @@ class InfoViewController: UIViewController {
     }
   
 }
+
